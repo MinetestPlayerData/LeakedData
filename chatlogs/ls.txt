@@ -1,0 +1,6 @@
+Tue May 18 17:43:16 2021
+ls: hi
+
+Tue May 18 17:43:37 2021
+ls: I'm new here, was is this for a server?
+

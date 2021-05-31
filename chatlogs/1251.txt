@@ -1,0 +1,21 @@
+Wed May 26 14:08:02 2021
+1251: hi
+
+Wed May 26 14:08:08 2021
+1251: i'm french
+
+Wed May 26 14:08:26 2021
+1251: you have a silver for me
+
+Wed May 26 14:08:30 2021
+1251: please
+
+Wed May 26 14:10:05 2021
+1251: yes
+
+Wed May 26 14:10:42 2021
+1251: i don't have a gold
+
+Wed May 26 14:11:19 2021
+1251: you ahave a crystal for me
+
